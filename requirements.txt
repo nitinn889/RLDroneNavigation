@@ -1,0 +1,11 @@
+numpy
+pandas
+matplotlib
+tensorflow
+gym
+stable-baselines3
+gymnasium
+scikit-learn
+opencv-python
+pytest
+tensorboard
