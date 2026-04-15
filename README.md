@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Drone Navigation with Reinforcement Learning
 
 This project implements a reinforcement learning-based solution for drone navigation. The drone is designed to pick up parcels, navigate through obstacles, and land safely using safe reinforcement learning techniques.
@@ -59,3 +60,7 @@ Contributions are welcome! Please open an issue or submit a pull request for any
 ## License
 
 This project is licensed under the MIT License. See the LICENSE file for details.
+=======
+# RLDroneNavigation
+Developing a RL-based algorithm to help in efficient Drone delivery
+>>>>>>> 3c37c774e721cd0b1b41f76724d12925c32a4edb
